@@ -3,8 +3,11 @@
  * Author: Luna Klatzer
  * Date: 10.09.2024
  */
-#ifndef LIB_H
-#define LIB_H
+#ifndef LED_DISPLAY_PROJECT_H
+#define LED_DISPLAY_PROJECT_H
+
+#include "./Setup.h"
+#include "./Onboard.h"
 
 #ifdef __cplusplus
 extern "C" {
@@ -17,4 +20,4 @@ extern "C" {
 }
 #endif
 
-#endif//LIB_H
+#endif//LED_DISPLAY_PROJECT_H
